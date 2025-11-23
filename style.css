@@ -11,7 +11,7 @@
 .calculator-grid > button {
     cursor: pointer;
     font-size: 2rem;
-    border: 1px solid white;
+    border: 5px solid black;
     outline: none;
     background-color: rgba(255, 255, 255, .75);
 }
@@ -44,4 +44,5 @@
 .output .current-operand {
     color: white;
     font-size: 2.5rem;
+
 }
